@@ -102,10 +102,4 @@ Based on the synthesis of segmentation, cohort, and retention data, the business
 * Date/Time Interval manipulations
 * Conditional Logic (`CASE WHEN`)
 * Aggregation and subqueries
-
-
-* **Visualization:** Python (Pandas, Matplotlib)
-
----
-
-Let me know if you need any adjustments to the wording, or if you're ready to wrap this project up and ship it!
+* **Visualization:** GEMINI AI
